@@ -1,7 +1,10 @@
-## Category
+## Category?
 1. Subscription
-	1. Internet
-	2. IPTV
+	1. Internet Subscription
+		1. Internet
+		2. IPTV
+		3. Others
+	2. AddOn
 	3. Others
 2. One Time
 	1. Service

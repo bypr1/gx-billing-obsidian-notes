@@ -1,5 +1,5 @@
 ### Layout
-![[Pasted image 20260424113705.png]]
+![[Pasted image 20260424135020.png]]
 # Invoice
 1 Invoice contains multiple invoice items
 

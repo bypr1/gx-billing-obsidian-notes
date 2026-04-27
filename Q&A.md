@@ -46,3 +46,6 @@ perlu notif? ketika
 Next:
 Tanya apakah ada melakukan pembayaran sekaligus 3 bulan, dia monthly
 Tampilan untuk perpajakan
+
+Apakah ada invoice yang isinya campur? (Subscription + Fee) atau (Item Warehouse + Fee)
+Customer tanpa billing automated?

@@ -1,0 +1,7 @@
+
+## BillingStatement
+- 
+
+## BillingStatementInvoice
+- BillingStatementId
+- InvoiceId

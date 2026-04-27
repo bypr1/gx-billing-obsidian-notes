@@ -83,26 +83,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Billing/New Setting.md",
+                "file": "New Billing/New Invoice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Setting"
+              "title": "New Invoice"
             }
           },
           {
-            "id": "73eed9faaa64881d",
+            "id": "347c71b9392fdf12",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "New Billing/Model Analyze/Invoice Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Invoice Model"
+            }
+          },
+          {
+            "id": "bf28e19585989629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Billing/Model Analyze/Billing Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Billing Model"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "9606663f2f75fcf6",
@@ -112,10 +130,14 @@
             "id": "498708778a84fbf3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "New Billing/Model Analyze/Invoice Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Invoice Model"
             }
           }
         ]
@@ -191,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Billing/Settings.md",
+                "file": "New Billing/Model Analyze/Invoice Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Settings"
+              "title": "Backlinks for Invoice Model"
             }
           },
           {
@@ -210,12 +232,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Billing/Settings.md",
+                "file": "New Billing/Model Analyze/Invoice Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Settings"
+              "title": "Outgoing links from Invoice Model"
             }
           },
           {
@@ -253,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Billing/Settings.md",
+                "file": "New Billing/Model Analyze/Invoice Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Settings"
+              "title": "Outline of Invoice Model"
             }
           },
           {
@@ -277,8 +299,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,16 +313,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73eed9faaa64881d",
+  "active": "498708778a84fbf3",
   "lastOpenFiles": [
+    "New Billing/Model Analyze/Billing Model.md",
+    "New Billing/Model Analyze/Invoice Model.md",
+    "New Billing/Model Analyze/Customer Service Location Model.md",
+    "Untitled 1.md",
+    "Q&A.md",
+    "New Billing/New Setting.md",
+    "Untitled.md",
+    "New Billing/New Invoice.md",
+    "New Billing/Model Analyze",
+    "Untitled",
+    "Pasted image 20260424135020.png",
+    "Pasted image 20260424112725.png",
     "Settings.md",
     "Welcome.md",
-    "Q&A.md",
     "Payment Flow.md",
-    "New Billing/New Setting.md",
-    "New Billing/New Invoice.md",
     "Pasted image 20260424113705.png",
-    "Pasted image 20260424112725.png",
     "What Is Billing.md",
     "New Billing/New Billing.md",
     "Glossary.md",
