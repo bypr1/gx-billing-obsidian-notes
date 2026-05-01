@@ -1,14 +1,12 @@
 
 ## Customer
+- ID
 - Number
 - UUID
 - Name
 - BranchId
 - PriorityId
-- FullName
-- Email
 - Address
-- IsNewest
 
 ## CustomerContact
 - CustomerId
@@ -16,11 +14,53 @@
 - TypeId
 - IsPrimary
 
-## ServiceLocation
+## CustomerServiceLocation
 - CustomerId
 - CircuitId
 - LocationId
+- StatusId
+- IsAlsoNotifyCustomer *includeCustomerInNotification*
+- NextBillDate
+- GenerateBillingAt
 - Email
 - Phone
-- IsAlsoNotifyCustomer
+- HasValueAddedTax
+- HasWithHoldingTaxArt23
+- HasFreeOfCharge
+- 
+
+## CustomerServiceLocationProductVariant
+- Id
+- UUID
+- CustomerServiceLocationId
+- ProductCariantId
+- BillingCycleId
+- StartNewProductDate
+- NextBillDate
+- Alias
+- RecurringFee
+
+## CustomerServiceLocationProductVariantBill
+- Id
+- CustomerServiceLocationProductVariantId
+- FromDate
+- ToDate
+- Amount
+- 
+
+## ProductVariantBillingCycle
+- Id
+- NDays
+- NMonth
+- Discount
+- Name
+
+## CustomerServiceLocationInfo
+Info daripada service location yang bisa diperbarui berada disini
+- Id
+- CustomerId
+- CustomerServiceLocationId
+- CustomerName
+- LocationNickname
+- LocationAddress
 - IsNewest
