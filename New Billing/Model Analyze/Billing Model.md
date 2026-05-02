@@ -4,7 +4,12 @@
 - Date
 - FromDate
 - ToDate
+- DueDate
 - Amount
+- Tax
+- BalanceForward
+- NotifiedAt
+- NotifiedTo
 - 
 - 
 - CreatedAt

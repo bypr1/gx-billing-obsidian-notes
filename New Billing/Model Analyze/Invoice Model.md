@@ -6,7 +6,7 @@
 - ProformaInvoiceId
 - Number
 - TypeId
-- Version
+- Version? [[Q&A#Q]]
 - StatusId
 - 
 - ActiveBillingStatementId
@@ -50,3 +50,6 @@
 ## InvoicePayment
 - InvoiceId
 - PaymentId
+
+## InvoiceActivity
+Atau mau pake useActivity?

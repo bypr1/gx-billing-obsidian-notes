@@ -27,7 +27,7 @@
 - HasValueAddedTax
 - HasWithHoldingTaxArt23
 - HasFreeOfCharge
-- 
+- CustomBillDate
 
 ## CustomerServiceLocationProductVariant
 - Id
@@ -36,7 +36,7 @@
 - ProductCariantId
 - BillingCycleId
 - StartNewProductDate
-- NextBillDate
+- NextInvoicingDate
 - Alias
 - RecurringFee
 
